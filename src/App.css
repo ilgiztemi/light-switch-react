@@ -1,0 +1,19 @@
+.switch {
+  text-align: center;
+  border: 4px solid lightblue;
+  height: 500px;
+  width: 700px;
+  margin: 90px auto;
+  border-radius: 50px;
+  background-color: aliceblue;
+}
+.btn {
+  border: 2px solid lightblue;
+  padding: 10px 30px;
+  letter-spacing: 2px;
+  color: rgb(106, 167, 188);
+  border-radius: 15px;
+  background-color: whitesmoke;
+  font-size: 15px;
+}
+
